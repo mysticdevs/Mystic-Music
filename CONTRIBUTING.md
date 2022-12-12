@@ -1,7 +1,7 @@
 # Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/mystic-music.git`
+1. [Fork the repository](https://github.com/mysticdevs/Mystic-Music/fork)
+2. Clone your fork: `git clone https://github.com/your-username/Mystic-Music.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
