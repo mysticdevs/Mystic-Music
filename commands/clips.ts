@@ -19,6 +19,3 @@ export default {
     });
   }
 };
-//these are some music commands
-//make sure to fill all the infos in the config file other wise bot will crash
-//now we can run the code bot is online
